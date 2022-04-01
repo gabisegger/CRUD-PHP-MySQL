@@ -2,6 +2,6 @@
 
 <footer>
     <div class="container">
-        Rodapé
+    ©2021 FoxCursos - Todos os direitos reservados.
     </div>
 </footer>
